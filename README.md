@@ -47,4 +47,4 @@ Not sure where else to deploy
 
 ### Must be interactive
 
-¯\\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
